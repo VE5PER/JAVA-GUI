@@ -1,6 +1,6 @@
 # JAVA-GUI
 
-## BASIC GUI FOR ADMIN-CLIENT EXAM SCHEDULE MANAGEMENT
+## GUI FOR ADMIN-CLIENT EXAM SCHEDULE MANAGEMENT
 
 The basic GUI utilizes swing concepts within java to create a an interface between the admin(actor) and the client(actor) wherein the admin can create schedules and the client can view it
 
